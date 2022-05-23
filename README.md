@@ -33,5 +33,5 @@ ls (para visualizar que todo ha funcionado exactamente como deseamos)
 Si ya tenemos este paso realizado solo nos queda ejecutar un comando, este comando se lanza desde la misma carpeta donde alojamos nuestro **Dockerfile**.
 
 Una vez realizada la práctica debemos comprobar que funciona poniendo en el buscador del navegador web **localhost:8888**
-![image](https://user-images.githubusercontent.com/98842240/169795968-35d30a7e-9b4d-47ea-bb21-63405f03e5de.png)
 
+![image](https://user-images.githubusercontent.com/98842240/169796252-dd96a903-64a3-4454-ad19-a26fa32bd931.png)
